@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=542
+
+Russian menu translation for GVIM. 
+Includes some dialog and toolbar captions translation.
+
+Although it's koi8-r you may convert it to other russian encoding,
+change scriptencoding in file and that's it.
