@@ -1,7 +1,7 @@
 " Menu Translations: Russian
-" Maintainer:        Tim Alexeevsky <realtim@mail.ru>
-" Last Change:       17 Jul 2002
-" URL:               http://sunsite.cs.msu.su/~tim/vim/menu_ru_ru.koi8-r.vim
+" Maintainer:        Tim Alexeevsky <realtim [at] mail.ru>
+" Last Change:       11 Nov 2003
+" URL:               http://zigzag.cs.msu.su/~tim/menu_ru_ru.koi8-r.vim
 
 "
 " This translation is based on an ukrainian translation by
@@ -63,7 +63,7 @@ menutrans Toggle\ W&rap\ at\ word<Tab>:set\ lbr!         В\[ы\]ключить\ перенос\
 menutrans Toggle\ &expand-tab<Tab>:set\ et!              \[Не\]\ Использовать\ символ\ &табуляции<Tab>:set\ et!
 menutrans Toggle\ &auto-indent<Tab>:set\ ai!             В\[ы\]ключить\ автоматический\ &отступ<Tab>:set\ ai!
 menutrans Toggle\ &C-indenting<Tab>:set\ cin!            В\[ы\]ключить\ отступы\ для\ языка\ &C<Tab>:set\ cin!
-menutrans &Shiftwidth                                    &Сдвиг
+menutrans &Shiftwidth                                    &Автосдвиг
 menutrans Te&xt\ Width\.\.\.                             &Ширина\ текста\.\.\.
 menutrans &File\ Format\.\.\.                            &Формат\ файла\.\.\.
 menutrans Soft\ &Tabstop                                 Позиция\ &табуляции
